@@ -9,13 +9,16 @@ $(document).ready(function(){
         $('.alert').css({
             'transform': 'translateX(150%)',
         });
+        
     });
 
     $(".out").click(function(){
         $('.alert').css({
             'transform': 'translateX(150%)',
         });
+
     })
+
 })
 ScrollReveal({ reset: true });
 ScrollReveal().reveal('.banner', { easing:"ease-in", delay: 100});

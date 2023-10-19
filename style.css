@@ -10,8 +10,8 @@
     position: fixed;
     top: 5%;
     right: 2%;
-    background: rgb(255,250,245);
-    color: #fff;
+    background: blue;
+    color: blue;
     font-weight: 800;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
     padding: 20px;
@@ -47,7 +47,7 @@
 }
 body
 {
-    background: rgb(255,250,245);
+    background: pink;
 }
 .banner
 {
@@ -58,7 +58,7 @@ body
     min-height: 100vh;
     position: relative;
     background: rgb(255,250,245);
-    background: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(https://www.aurusjewels.com/cdn/shop/articles/indian_wedding_planning_guide_ultimate.jpg?v=1679913681);
+    background: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(https://i.postimg.cc/Pr1sw3SW/wp11428610-dogs-and-cats-spring-wallpapers.jpg);
     background-size: cover;
     background-attachment: fixed;
     padding-top: 100px;
